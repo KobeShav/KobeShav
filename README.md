@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![Kobe Shavolian's github stats](https://github-readme-stats.vercel.app/api?username=kobeshav)](https://github.com/kobeshav/github-readme-stats?theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kobeshav)](https://github.com/kobeshav/github-readme-stats)
