@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Kobe Shavolian's github stats](https://github-readme-stats.vercel.app/api?username=kobeshav)](https://github.com/kobeshav/github-readme-stats?count_private=true)
+[!![Kobe's github stats](https://github-readme-stats.vercel.app/api?username=kobeshav&count_private=true)](https://github.com/kobeshav/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kobeshav)](https://github.com/kobeshav/github-readme-stats?count_private=true)
