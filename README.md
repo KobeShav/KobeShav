@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kobeshav&hide=issues&show_icons=true&theme=dark&count_private=true&include_all_commits=true&?orgs=ucsb-cs156-f20,ucsb-cs48-s20" />
@@ -25,3 +25,4 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kobeshav&theme=dark&count_private=true" />
 </a>     
+-->
