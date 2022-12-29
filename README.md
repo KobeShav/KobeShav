@@ -1,6 +1,6 @@
 ### Hi there, I am Kobe Shavolian 👋
 
-# I am an aspiring Computer Scientist at the University of California, Santa Barbara!
+# I am a Computer Science graduate from the University of California, Santa Barbara!
 
 - 🔭 I’m currently working on efficient algorithms and full stack web development
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kobe-shavolian-595428170/)
